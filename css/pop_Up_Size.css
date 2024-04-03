@@ -1,0 +1,229 @@
+.pop-up-size,
+.pop-up-size * {
+  box-sizing: border-box;
+}
+.pop-up-size {
+  background: #ffffff;
+  border-radius: 4px;
+  width: 301px;
+  height: 470px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-2087325973 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 470px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.shipping-method {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 271px;
+  height: 440px;
+  position: absolute;
+  left: 15px;
+  top: 15px;
+}
+.shipping-method2 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+  flex: 1;
+}
+.methods {
+  border-radius: 2px;
+  border-style: solid;
+  border-color: var(--gris-eye, #94938d);
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 392px;
+  position: relative;
+}
+.method-1 {
+  border-radius: 2px;
+  border-style: solid;
+  border-color: var(--gris-eye, #94938d);
+  border-width: 0px 0px 1px 0px;
+  padding: 16px 10px 16px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-1547755343 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-26 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.radio-selected {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.radio-selected2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.rectangle-34 {
+  background: var(--white, #ffffff);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: var(--verdigris, #3aa39f);
+  border-width: 2px;
+  width: 83.33%;
+  height: 83.33%;
+  position: absolute;
+  right: 8.33%;
+  left: 8.33%;
+  bottom: 8.33%;
+  top: 8.33%;
+}
+.rectangle-35 {
+  background: var(--verdigris, #3aa39f);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: var(--verdigris, #3aa39f);
+  border-width: 1px;
+  width: 41.67%;
+  height: 41.67%;
+  position: absolute;
+  right: 29.17%;
+  left: 29.17%;
+  bottom: 29.17%;
+  top: 29.17%;
+}
+.expires-11-2020 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-27 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.pencil {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.rectangle-342 {
+  background: var(--white, #ffffff);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: var(--gris-eye, #94938d);
+  border-width: 2px;
+  width: 83.33%;
+  height: 83.33%;
+  position: absolute;
+  right: 8.33%;
+  left: 8.33%;
+  bottom: 8.33%;
+  top: 8.33%;
+}
+.pencil2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.pencil3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.pencil4 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.pencil5 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.pencil6 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.method-12 {
+  border-radius: 2px;
+  padding: 16px 10px 16px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.pencil7 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}

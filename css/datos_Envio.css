@@ -1,0 +1,262 @@
+.modal-datos-de-env-o,
+.modal-datos-de-env-o * {
+  box-sizing: border-box;
+}
+.modal-datos-de-env-o {
+  background: #ffffff;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 703px;
+  position: relative;
+}
+.frame-2087326273 {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2087326031 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.shipment-address {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-2087326272 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2087326271 {
+  padding: 0px 30px 0px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2087326269 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.label {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.nombre {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.input {
+  background: #ffffff;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #b2b2b2;
+  border-width: 1px;
+  padding: 11px 12px 11px 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 46px;
+  position: relative;
+}
+.direcci-n {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tel-fono {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ciudad {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.c-digo-postal {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2087326270 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.pa-s {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.email {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.estado-postal {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.referencia {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.boton-new {
+  background: var(--celeste-eye, #51a69f);
+  border-radius: 4px;
+  padding: 13px 32px 13px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 47px;
+  position: relative;
+  overflow: hidden;
+}
+.sell {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Fahkwang-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: relative;
+}

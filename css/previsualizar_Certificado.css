@@ -1,0 +1,381 @@
+.frame-2087326245,
+.frame-2087326245 * {
+  box-sizing: border-box;
+}
+.frame-2087326245 {
+  background: #fafafa;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 63px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-2087326244 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 1668px;
+  position: relative;
+}
+.frame-1547755316 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1547755315 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 118px;
+  position: relative;
+}
+.boton-new {
+  background: var(--celeste-eye, #51a69f);
+  border-radius: 4px;
+  padding: 13px 32px 13px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 118px;
+  height: 37px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1547755282 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: absolute;
+  left: 14px;
+  top: 7px;
+}
+.ep-back {
+  flex-shrink: 0;
+  width: 19px;
+  height: 19px;
+  position: relative;
+  overflow: visible;
+}
+.volver {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Fahkwang-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: relative;
+}
+.frame-2087326243 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-15477553152 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 157px;
+  position: relative;
+}
+.boton-new2 {
+  background: var(--celeste-eye, #51a69f);
+  border-radius: 4px;
+  padding: 13px 32px 13px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 157px;
+  height: 37px;
+  position: relative;
+  overflow: hidden;
+}
+.ic-outline-share {
+  flex-shrink: 0;
+  width: 19px;
+  height: 19px;
+  position: relative;
+  overflow: visible;
+}
+.compartir {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Fahkwang-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: relative;
+}
+.frame-1547755317 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 157px;
+  position: relative;
+}
+.carbon-download {
+  flex-shrink: 0;
+  width: 19px;
+  height: 19px;
+  position: relative;
+  overflow: visible;
+}
+.descargar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Fahkwang-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: relative;
+}
+.frame-2087326176 {
+  background: #ffffff;
+  padding: 60.06px;
+  display: flex;
+  flex-direction: column;
+  gap: 114.11px;
+  align-items: flex-end;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2087326172 {
+  display: flex;
+  flex-direction: column;
+  gap: 63.06px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2087326170 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 1020px;
+  position: relative;
+}
+.frame-2087326168 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.certificate {
+  color: var(--celeste-eye, #51a69f);
+  text-align: left;
+  font-family: "MeieScript-Regular", sans-serif;
+  font-size: 84.08445739746094px;
+  line-height: 90.09px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.of-authentication {
+  color: #383c57;
+  text-align: right;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 18.018098831176758px;
+  line-height: 30.03px;
+  font-weight: 400;
+  opacity: 0.800000011920929;
+  position: relative;
+  align-self: stretch;
+}
+.frame-36 {
+  display: flex;
+  flex-direction: column;
+  gap: 279.28px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo-color-2-2 {
+  flex-shrink: 0;
+  width: 180px;
+  height: 39.08px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-35 {
+  padding: 0px 222.22px 0px 222.22px;
+  display: flex;
+  flex-direction: column;
+  gap: 48.05px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.this-certificate-is-proudly-presented-to {
+  color: var(--verde-eye, #77971a);
+  text-align: center;
+  font-family: "Fahkwang-Bold", sans-serif;
+  font-size: 21.021114349365234px;
+  line-height: 30.03px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.frame-32 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.name-surname {
+  color: var(--negro-eye, #2b2d22);
+  text-align: center;
+  font-family: "MeieScript-Regular", sans-serif;
+  font-size: 84.08445739746094px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-34 {
+  display: flex;
+  flex-direction: column;
+  gap: 6.01px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.serial-000254200298 {
+  color: var(--colores-gris, #787878);
+  text-align: center;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 36.036197662353516px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.this-is-a-sample-certificate-that-has-been-placed-to-demonstrate-the-typing-format-on-the-your-company-letterhead-design-when-positioned-to-work-properly-it-will-serve-to-work-in-harmony-with-all-of-the-other-elements-on-the-certificate {
+  color: var(--celeste-eye, #51a69f);
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.015082359313965px;
+  line-height: 18.02px;
+  font-weight: 400;
+  opacity: 0.800000011920929;
+  position: relative;
+  align-self: stretch;
+}
+.vector-2 {
+  flex-shrink: 0;
+  width: 720px;
+  height: 120.24px;
+  position: absolute;
+  left: 420px;
+  top: 0px;
+  overflow: visible;
+}
+.vector-1 {
+  flex-shrink: 0;
+  width: 1140px;
+  height: 120.24px;
+  position: absolute;
+  left: 0px;
+  top: 628.26px;
+  overflow: visible;
+}
+.frame-30 {
+  display: flex;
+  flex-direction: row;
+  gap: 144.14px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 384px;
+  position: relative;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 6.01px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #c19b44;
+  border-width: 1.2px 0 0 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.date {
+  color: #c19b44;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12.012065887451172px;
+  font-weight: 400;
+  position: relative;
+  width: 120px;
+}
+.frame-302 {
+  display: flex;
+  flex-direction: column;
+  gap: 6.01px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.signature {
+  color: #c19b44;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12.012065887451172px;
+  font-weight: 400;
+  position: relative;
+  width: 120px;
+}

@@ -1,0 +1,388 @@
+.store-modal-new-empleados,
+.store-modal-new-empleados * {
+  box-sizing: border-box;
+}
+.store-modal-new-empleados {
+  background: var(--gris-tabla, #fafafa);
+  border-radius: 4px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 767px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-2087326134 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-2087326148 {
+  padding: 0px 60px 0px 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.chart-transactions {
+  background: var(--colores-blanco, #ffffff);
+  border-radius: 4px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2087326147 {
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2087326146 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.nuevo-empleado {
+  color: var(--negro-eye, #2b2d22);
+  text-align: center;
+  font-family: "Fahkwang-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 600;
+  position: relative;
+}
+.frame-1547755213 {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1547755211 {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.label {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 21px;
+  position: relative;
+}
+.nombre {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.input {
+  background: #ffffff;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #b2b2b2;
+  border-width: 1px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 46px;
+  position: relative;
+}
+.label2 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.direcci-n {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.input2 {
+  background: #ffffff;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #b2b2b2;
+  border-width: 1px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 46px;
+  position: relative;
+}
+.store {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.input3 {
+  background: #ffffff;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #b2b2b2;
+  border-width: 1px;
+  padding: 11px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2087326142 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.elegir-tienda {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icon {
+  flex-shrink: 0;
+  width: 8.59px;
+  height: 16.23px;
+  position: relative;
+  transform: translate(-16.23px, 0px);
+  overflow: visible;
+}
+.frame-1547755281 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1547755242 {
+  display: flex;
+  flex-direction: row;
+  gap: 39px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.activar-pin {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-7046 {
+  background: #00b087;
+  border-radius: 15.5px;
+  flex-shrink: 0;
+  width: 33px;
+  height: 15px;
+  position: relative;
+}
+.span-before {
+  background: #cacaca;
+  border-radius: 11px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 17px;
+  top: -3.5px;
+}
+.frame-1547755243 {
+  display: flex;
+  flex-direction: row;
+  gap: 39px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.para-generar-otro-pin-deselecciona-y-vuelve-a-seleccionar-la-creaci-n-de-un-nuevo-pin {
+  color: #828282;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 399px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1547755212 {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.telefono {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ciudad {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.email {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2087326151 {
+  padding: 0px 231.5px 0px 231.5px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.boton-new {
+  background: var(--celeste-eye, #51a69f);
+  border-radius: 4px;
+  padding: 13px 32px 13px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 46px;
+  position: relative;
+  overflow: hidden;
+}
+.sell {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Fahkwang-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: relative;
+}

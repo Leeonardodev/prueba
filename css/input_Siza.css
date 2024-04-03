@@ -1,0 +1,86 @@
+.frame-1547755322,
+.frame-1547755322 * {
+  box-sizing: border-box;
+}
+.frame-1547755322 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 249px;
+  position: relative;
+}
+.xs-5-99 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.line-113 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.s-7-99 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.line-114 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.m-9-99 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.line-115 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.l-12-99 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.line-116 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.xl-15-99 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}

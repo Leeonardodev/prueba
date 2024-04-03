@@ -1,0 +1,675 @@
+.shipping-modal-cart,
+.shipping-modal-cart * {
+  box-sizing: border-box;
+}
+.shipping-modal-cart {
+  background: var(--gris-tabla, #fafafa);
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 767px;
+  position: relative;
+}
+.frame-2087326006 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-2087326007 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-2087326202 {
+  background: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-between;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-2087326201 {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2087326200 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1547755235 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 167px;
+  position: relative;
+}
+.products {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  width: 96px;
+}
+._2-items {
+  color: var(--gris-eye, #94938d);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.frame-1547755344 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 304px;
+  position: relative;
+}
+.boton-gris {
+  background: var(--celeste-eye, #51a69f);
+  border-radius: 4px;
+  border-style: solid;
+  border-color: var(--blanco-eye, #fcfaf0);
+  border-width: 1px;
+  padding: 5px 12px 5px 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 131px;
+  height: 29px;
+  position: relative;
+  overflow: hidden;
+}
+.bot-n {
+  color: var(--blanco-eye, #fcfaf0);
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.boton-gris2 {
+  background: var(--celeste-eye, #51a69f);
+  border-radius: 4px;
+  border-style: solid;
+  border-color: var(--blanco-eye, #fcfaf0);
+  border-width: 1px;
+  padding: 5px 12px 5px 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 85px;
+  height: 29px;
+  position: relative;
+  overflow: hidden;
+}
+.boton-gris3 {
+  background: var(--celeste-eye, #51a69f);
+  border-radius: 4px;
+  border-style: solid;
+  border-color: var(--blanco-eye, #fcfaf0);
+  border-width: 1px;
+  padding: 5px 12px 5px 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 72px;
+  height: 29px;
+  position: relative;
+  overflow: hidden;
+}
+.transactions {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 176px;
+  position: relative;
+}
+.row {
+  padding: 10px 0px 10px 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-41 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-39 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.ellipse-1 {
+  background: linear-gradient(to left, #94938d, #94938d);
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 42px;
+  height: 42px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-38 {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.taza-de-ojo-personalizada-3 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: relative;
+}
+.john-doe {
+  color: var(--gris-eye, #94938d);
+  text-align: left;
+  font-family: "Fahkwang-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  position: relative;
+}
+.tienda-1 {
+  color: var(--gris-eye, #94938d);
+  text-align: left;
+  font-family: "Fahkwang-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  position: relative;
+}
+.frame-42 {
+  padding: 10px 0px 10px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  height: 43px;
+  position: relative;
+}
+._44-99 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: right;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.frame-412 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-40 {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.remera-de-ojo-personalizada-3 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-1547755204 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 288px;
+  position: relative;
+}
+.summary {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.summary2 {
+  color: var(--secondary, #080b13);
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 120%;
+  font-weight: 400;
+  position: relative;
+}
+._179-96 {
+  color: var(--secondary, #080b13);
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 120%;
+  font-weight: 400;
+  position: relative;
+}
+.delivery {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.delivery2 {
+  color: var(--secondary, #080b13);
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 120%;
+  font-weight: 400;
+  position: relative;
+}
+._0 {
+  color: var(--secondary, #080b13);
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 120%;
+  font-weight: 400;
+  position: relative;
+}
+.frame-1547755203 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.total {
+  color: var(--secondary, #080b13);
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+}
+._179-962 {
+  color: var(--secondary, #080b13);
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 400;
+  position: relative;
+}
+.order-summary {
+  background: var(--colores-blanco, #ffffff);
+  border-radius: 4px;
+  padding: 30px 30px 32px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.order-summary2 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.price {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.price2 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+}
+._319-98 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+}
+.discount {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.discount2 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+}
+._31-9 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+}
+.shipping {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.shipping2 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+}
+.free {
+  color: var(--celeste-eye, #51a69f);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+}
+.coupon-applied {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.coupon-applied2 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+}
+._0-00 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+}
+.divider {
+  background: var(--gris-eye, #94938d);
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  position: relative;
+}
+.total2 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.total3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.total4 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+}
+._288-08 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: right;
+  font-family: "Fahkwang-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.delivery3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.delivery4 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+}
+.delivery5 {
+  color: var(--negro-eye, #2b2d22);
+  text-align: left;
+  font-family: "Fahkwang-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.input {
+  background: #ffffff;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #b2b2b2;
+  border-width: 1px;
+  padding: 11px 12px 11px 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2087325979 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1;
+  position: relative;
+}
+.jhon-doe {
+  color: #1a1a1a;
+  text-align: left;
+  font-family: "Fahkwang-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 381px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trailing-icon {
+  margin: 0 0 0 -21px;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.proceed {
+  background: var(--celeste-eye, #51a69f);
+  border-radius: 4px;
+  padding: 18px 40px 18px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 52px;
+  position: relative;
+}
+.button {
+  color: var(--colores-blanco, #ffffff);
+  text-align: left;
+  font-family: "Fahkwang-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 600;
+  position: relative;
+}
